@@ -16,8 +16,8 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-		<title>Cyclo-fiches - Vélo-Cité [Admin]</title>
-		<link rel="shortcut icon" type="image/png" href="resources/favicon/favicon.jpg" />
+		<title>VelObs [Admin]</title>
+		<link rel="shortcut icon" type="image/png" href="resources/favicon/favicon.png" />
 	</head>
 	<body onunload="setCookie()">
 		<div id="loading"> 
@@ -96,8 +96,8 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-		<title>Cyclo-fiches - Vélo-Cité [Admin]</title>
-		<link rel="shortcut icon" type="image/png" href="resources/favicon/favicon.jpg" />
+		<title>VelObs [Admin]</title>
+		<link rel="shortcut icon" type="image/png" href="resources/favicon/favicon.png" />
 	</head>
 	<body>
 		<div id="loading"> 
@@ -175,8 +175,8 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-		<title>Cyclo-fiches - Vélo-Cité [Admin]</title>
-		<link rel="shortcut icon" type="image/png" href="resources/favicon/favicon.jpg" />
+		<title>VelObs [Admin]</title>
+		<link rel="shortcut icon" type="image/png" href="resources/favicon/favicon.png" />
 	</head>
 	<body onunload="setCookie()">
 		<div id="loading"> 
@@ -256,8 +256,8 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-		<title>Cyclo-fiches - Vélo-Cité [Admin]</title>
-		<link rel="shortcut icon" type="image/png" href="resources/favicon/favicon.jpg" />
+		<title>VelObs [Admin]</title>
+		<link rel="shortcut icon" type="image/png" href="resources/favicon/favicon.png" />
 	</head>
 	<body onunload="setCookie()">
 		<div id="loading">
