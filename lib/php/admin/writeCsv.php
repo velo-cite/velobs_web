@@ -74,6 +74,7 @@
 											poi.*, 
 											priorite.lib_priorite, 
 											pole.lib_pole, 
+											status.lib_status,
 											x(poi.geom_poi) AS X, 
 											y(poi.geom_poi) AS Y, 
 											lib_category, 
@@ -85,6 +86,7 @@
 											INNER JOIN commune ON (commune.id_commune = poi.commune_id_commune) 
 											INNER JOIN pole ON (pole.id_pole = poi.pole_id_pole) 
 											INNER JOIN priorite ON (priorite.id_priorite = poi.priorite_id_priorite) 
+											INNER JOIN status ON (poi.status_id_status = status.id_status)
 										WHERE 
 											poi.delete_poi = FALSE 
 											$extraSQL
